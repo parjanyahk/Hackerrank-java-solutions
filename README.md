@@ -1,5 +1,5 @@
 # HackerRank Java Solutions
-Solutions for practice problems on Java in HackerRank
+Solutions for practice problems on Java in HackerRank with complete explanation and documentation.
 
 ## How to submit your code?
 Fork the repository and add your submission to the repo. Create a pull request with title of submission. That's it! Just wait for your request to be merged.
